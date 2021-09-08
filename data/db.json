@@ -1,0 +1,65 @@
+{
+  "taxis": {
+    "code": 0,
+    "descr": "OK",
+    "data": {
+      "crewsInfo": [
+        {
+          "crewId": 123,
+          "carMark": "Chevrolet",
+          "carModel": "Lacetti",
+          "carColor": "синий",
+          "carNumber": "Е234КУ",
+          "driverName": "Деточкин",
+          "driverPhone": "7788",
+          "lat": 56.855532,
+          "lon": 53.217462,
+          "distance": 300
+        },
+        {
+          "crewId": 125,
+          "carMark": "Hyundai",
+          "carModel": "Solaris",
+          "carColor": "белый",
+          "carNumber": "Ф567АС",
+          "driverName": "Петров",
+          "driverPhone": "8899",
+          "lat": 56.860581,
+          "lon": 53.209223,
+          "distance": 600
+        },
+        {
+          "crewId": 120,
+          "carMark": "Hyundai",
+          "carModel": "Solaris",
+          "carColor": "красный",
+          "carNumber": "Ф565СЕ",
+          "driverName": "Иванов",
+          "driverPhone": "4466",
+          "lat": 56.850581,
+          "lon": 53.208223,
+          "distance": 500
+        },
+        {
+          "crewId": 123,
+          "carMark": "Chevrolet",
+          "carModel": "Lacetti",
+          "carColor": "Зеленый",
+          "carNumber": "Т937ЮР",
+          "driverName": "Мельников",
+          "driverPhone": "9933",
+          "lat": 56.856632,
+          "lon": 53.220062,
+          "distance": 700
+        }
+      ]
+    }
+  },
+  "order": {
+    "code": 0,
+    "descr": "OK",
+    "data": {
+      "orderId": 12345
+    }
+  }
+}
